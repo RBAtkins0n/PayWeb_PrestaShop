@@ -1,7 +1,7 @@
 # PayWeb_PrestaShop
 ## DPO PayGate PrestaShop plugin v1.0.1 for PrestaShop v 1.6.x.x
 
-This is the DPO PayGate PayWeb3 plugin for PrestaShop. Please feel free to contact the DPO PayGate support team at support@paygate.co.za should you require any assistance.
+This is the DPO PayGate PayWeb3 plugin for PrestaShop. Please feel free to contact the DPO PayGate support team at supportsa@dpogroup.com should you require any assistance.
 
 ## Installation
 
